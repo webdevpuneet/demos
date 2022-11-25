@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Donut chart with gradient using Chart.js</title>
+<style>
+    #donutChart{
+        max-width:200px;
+        max-height:200px;
+    }
+</style>
+</head> 
+<body>
+    <canvas id="donutChart"></canvas>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1/dist/chart.umd.min.js"></script>
+    <script>
+        
+        var donutChart = document.getElementById('donutChart').getContext('2d');
+
+        var donutChartGradientStroke = donutChart.createLinearGradient(100, 0, 100, 200);
+        donutChartGradientStroke.addColorStop(0, "#0067FF");
+        donutChartGradientStroke.addColorStop(1, "#FF144C");
+        
+        const donut_data = {
+            labels: [
+                'Blue Area',
+                'White Area'
+            ],
+            datasets: [{
+                label: 'Donut',
+                data: [100, 100],
+                backgroundColor: [
+                    donutChartGradientStroke,
+                    'rgba(24,24,24, 0)',
+                ],
+                borderRadius: [50, 0],
+            }]
+        };
+        
+        const donut_options = {
+            responsive: true,
+            maintainAspectRatio: true,
+            cutout: 70,
+            borderWidth:0,
+            backgroundColor: '#000',
+            plugins: {
+                legend: {
+                    display: false,
+                },
+                tooltip: {
+                    enabled: true,
+                    backgroundColor: '#ffffff',
+                    titleColor: 'rgba(60, 60, 67, 0.6)',
+                    titleFont: 'bold',
+                    bodyColor: '#11263C',
+                    borderColor: '#ECE9F1', 
+                    borderWidth: 1,
+                    bodyFont: {
+                        size: 14,
+                        weight: 'bold'
+                    },
+                    cornerRadius: '10',
+                }
+            },
+        }
+        
+        var donutChartInstance = new Chart(donutChart, {
+            type: 'doughnut',
+            data: donut_data,
+            options:donut_options,
+            plugins: []
+        });
+    </script>
+
+</body>
+</html>
