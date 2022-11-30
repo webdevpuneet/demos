@@ -1,0 +1,266 @@
+[24-Mar-2014 06:59:53 America/Denver] PHP Notice:  Undefined index: owner_email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 4
+[24-Mar-2014 06:59:53 America/Denver] PHP Notice:  Undefined index: email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 5
+[24-Mar-2014 06:59:53 America/Denver] PHP Notice:  Undefined index: name in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 6
+[24-Mar-2014 06:59:53 America/Denver] PHP Notice:  Undefined index: email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 11
+[24-Mar-2014 06:59:53 America/Denver] PHP Notice:  Undefined index: phone in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 13
+[24-Mar-2014 06:59:53 America/Denver] PHP Notice:  Undefined index: message in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 15
+[24-Mar-2014 06:59:53 America/Denver] PHP Notice:  Undefined index: stripHTML in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 17
+[24-Mar-2014 21:57:43 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[24-Mar-2014 21:57:44 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[24-Mar-2014 21:57:44 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[24-Mar-2014 21:57:46 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[24-Mar-2014 21:57:47 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[27-Mar-2014 15:48:18 America/Denver] PHP Notice:  Undefined index: owner_email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 4
+[27-Mar-2014 15:48:18 America/Denver] PHP Notice:  Undefined index: email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 5
+[27-Mar-2014 15:48:18 America/Denver] PHP Notice:  Undefined index: name in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 6
+[27-Mar-2014 15:48:18 America/Denver] PHP Notice:  Undefined index: email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 11
+[27-Mar-2014 15:48:18 America/Denver] PHP Notice:  Undefined index: phone in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 13
+[27-Mar-2014 15:48:18 America/Denver] PHP Notice:  Undefined index: message in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 15
+[27-Mar-2014 15:48:18 America/Denver] PHP Notice:  Undefined index: stripHTML in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 17
+[29-Mar-2014 02:43:59 America/Denver] PHP Notice:  Undefined variable: messageBody in /home3/primecu2/public_html/gmede/bin/bachelors-escape-MailHandler.php on line 10
+[30-Mar-2014 21:28:43 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Mar-2014 21:28:44 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Mar-2014 21:28:45 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Mar-2014 21:28:45 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Mar-2014 21:28:46 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[31-Mar-2014 08:51:16 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[31-Mar-2014 08:51:16 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[31-Mar-2014 08:51:17 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[31-Mar-2014 08:51:18 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[31-Mar-2014 08:51:18 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[05-Apr-2014 02:53:09 America/Denver] PHP Notice:  Undefined variable: messageBody in /home3/primecu2/public_html/gmede/bin/honeymoon-MailHandler.php on line 10
+[05-Apr-2014 22:16:49 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[05-Apr-2014 22:16:50 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[05-Apr-2014 22:16:50 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[05-Apr-2014 22:16:51 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[05-Apr-2014 22:16:51 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-Apr-2014 11:21:30 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-Apr-2014 11:21:30 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-Apr-2014 11:21:31 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-Apr-2014 11:21:31 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-Apr-2014 11:21:32 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-Apr-2014 14:36:06 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-Apr-2014 14:36:06 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-Apr-2014 14:36:08 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-Apr-2014 14:36:09 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-Apr-2014 14:36:10 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-Apr-2014 01:17:28 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-Apr-2014 01:17:29 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-Apr-2014 01:17:29 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-Apr-2014 01:17:30 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-Apr-2014 01:17:30 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 00:50:48 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 00:50:49 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 00:50:49 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 00:50:50 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 00:50:51 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 10:00:28 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 10:00:28 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 10:00:29 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 10:00:29 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 10:00:30 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 11:28:24 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 11:28:25 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 11:28:26 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 11:28:27 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 11:28:29 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 18:51:25 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 18:51:27 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 18:51:27 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 18:51:28 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[14-Apr-2014 18:51:29 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[15-Apr-2014 13:53:39 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[15-Apr-2014 13:53:41 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[15-Apr-2014 13:53:43 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[15-Apr-2014 13:53:44 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[15-Apr-2014 13:53:46 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[16-Apr-2014 01:15:20 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[16-Apr-2014 01:15:20 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[16-Apr-2014 01:15:24 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[16-Apr-2014 01:15:24 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[16-Apr-2014 01:15:25 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-Apr-2014 00:39:40 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-Apr-2014 00:39:40 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-Apr-2014 00:39:41 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-Apr-2014 00:39:42 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-Apr-2014 00:39:43 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-Apr-2014 11:18:56 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-Apr-2014 11:18:57 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-Apr-2014 11:18:58 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-Apr-2014 11:18:58 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-Apr-2014 11:18:59 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[24-Apr-2014 19:42:31 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[24-Apr-2014 19:42:32 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[24-Apr-2014 19:42:32 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[24-Apr-2014 19:42:34 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[24-Apr-2014 19:42:34 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[25-Apr-2014 06:14:36 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[25-Apr-2014 06:14:36 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[25-Apr-2014 06:14:37 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[25-Apr-2014 06:14:38 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[25-Apr-2014 06:14:39 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[29-Apr-2014 15:24:16 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[29-Apr-2014 15:24:17 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[29-Apr-2014 15:24:17 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[29-Apr-2014 15:24:19 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[29-Apr-2014 15:24:20 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Apr-2014 03:14:02 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Apr-2014 03:14:03 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Apr-2014 03:14:03 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Apr-2014 03:14:04 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Apr-2014 03:14:05 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Apr-2014 15:59:29 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Apr-2014 15:59:29 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Apr-2014 15:59:30 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Apr-2014 15:59:30 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[30-Apr-2014 15:59:31 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-May-2014 02:25:46 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-May-2014 02:25:47 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-May-2014 02:25:47 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-May-2014 02:25:48 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-May-2014 02:25:48 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 06:27:41 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 06:27:41 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 06:27:42 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 06:27:42 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 06:27:43 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 13:55:22 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 13:55:22 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 13:55:24 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 13:55:25 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 13:55:27 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 16:55:32 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 16:55:33 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 16:55:33 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 16:55:34 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-May-2014 16:55:35 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-May-2014 01:29:33 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-May-2014 01:29:35 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-May-2014 01:29:36 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-May-2014 01:29:37 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-May-2014 01:29:37 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-May-2014 12:37:33 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-May-2014 12:37:41 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-May-2014 12:37:43 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-May-2014 12:37:45 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-May-2014 12:37:48 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-May-2014 22:05:43 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-May-2014 22:05:43 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-May-2014 22:05:43 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-May-2014 22:05:44 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[12-May-2014 22:05:45 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-May-2014 09:32:07 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-May-2014 09:32:08 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-May-2014 09:32:09 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-May-2014 09:32:09 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-May-2014 09:32:10 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-May-2014 19:34:13 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-May-2014 19:34:13 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-May-2014 19:34:14 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-May-2014 19:34:15 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[13-May-2014 19:34:15 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[18-May-2014 02:15:28 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[18-May-2014 02:15:29 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[18-May-2014 02:15:29 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[18-May-2014 02:15:30 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[18-May-2014 02:15:30 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[18-May-2014 10:24:22 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[18-May-2014 10:24:23 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[18-May-2014 10:24:23 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[18-May-2014 10:24:24 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[18-May-2014 10:24:24 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-May-2014 20:25:04 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-May-2014 20:25:04 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-May-2014 20:25:05 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-May-2014 20:25:06 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[19-May-2014 20:25:07 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[20-May-2014 05:51:41 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[20-May-2014 05:51:42 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[20-May-2014 05:51:42 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[20-May-2014 05:51:43 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[20-May-2014 05:51:44 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[22-May-2014 22:32:56 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[22-May-2014 22:32:57 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[22-May-2014 22:32:58 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[22-May-2014 22:32:58 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[22-May-2014 22:32:59 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[23-May-2014 07:35:13 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[23-May-2014 07:35:13 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[23-May-2014 07:35:14 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[23-May-2014 07:35:14 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[23-May-2014 07:35:15 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[25-May-2014 17:48:00 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[25-May-2014 17:48:01 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[25-May-2014 17:48:03 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[25-May-2014 17:48:03 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[25-May-2014 17:48:04 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[26-May-2014 03:43:50 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[26-May-2014 03:43:51 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[26-May-2014 03:43:52 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[26-May-2014 03:43:53 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[26-May-2014 03:43:54 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[28-May-2014 15:16:03 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[28-May-2014 15:16:04 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[28-May-2014 15:16:04 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[28-May-2014 15:16:05 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[28-May-2014 15:16:05 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[28-May-2014 23:34:49 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[28-May-2014 23:34:50 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[28-May-2014 23:34:50 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[28-May-2014 23:34:51 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[28-May-2014 23:34:52 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[31-May-2014 12:11:18 America/Denver] PHP Notice:  Undefined variable: messageBody in /home3/primecu2/public_html/gmede/bin/just-boys-fun-MailHandler.php on line 10
+[01-Jun-2014 01:49:26 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-Jun-2014 01:49:27 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-Jun-2014 01:49:28 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-Jun-2014 01:49:28 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-Jun-2014 01:49:29 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-Jun-2014 11:17:02 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-Jun-2014 11:17:03 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-Jun-2014 11:17:04 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-Jun-2014 11:17:04 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[01-Jun-2014 11:17:05 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[02-Jun-2014 17:06:02 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[02-Jun-2014 17:06:03 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[02-Jun-2014 17:06:04 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[02-Jun-2014 17:06:04 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[02-Jun-2014 17:06:05 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[03-Jun-2014 01:23:58 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[03-Jun-2014 01:23:59 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[03-Jun-2014 01:24:00 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[03-Jun-2014 01:24:01 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[03-Jun-2014 01:24:01 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-Jun-2014 21:28:20 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-Jun-2014 21:28:20 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-Jun-2014 21:28:21 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-Jun-2014 21:28:21 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[06-Jun-2014 21:28:22 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 07:39:17 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 07:39:18 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 07:39:19 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 07:39:19 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 07:39:20 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 15:37:38 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 15:37:38 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 15:37:38 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 15:37:39 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 15:37:39 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 23:49:20 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 23:49:21 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 23:49:22 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 23:49:22 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[07-Jun-2014 23:49:23 America/Denver] PHP Notice:  Use of undefined constant oups - assumed 'oups' in /home3/primecu2/public_html/gmede/bin/yachting-MailHandler.php on line 3
+[29-Jul-2014 19:43:30 America/Denver] PHP Notice:  Undefined index: owner_email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 4
+[29-Jul-2014 19:43:30 America/Denver] PHP Notice:  Undefined index: email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 5
+[29-Jul-2014 19:43:30 America/Denver] PHP Notice:  Undefined index: name in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 6
+[29-Jul-2014 19:43:30 America/Denver] PHP Notice:  Undefined index: email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 11
+[29-Jul-2014 19:43:30 America/Denver] PHP Notice:  Undefined index: phone in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 13
+[29-Jul-2014 19:43:30 America/Denver] PHP Notice:  Undefined index: message in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 15
+[29-Jul-2014 19:43:30 America/Denver] PHP Notice:  Undefined index: stripHTML in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 17
+[21-Aug-2014 20:08:43 America/Denver] PHP Notice:  Undefined index: owner_email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 4
+[21-Aug-2014 20:08:43 America/Denver] PHP Notice:  Undefined index: email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 5
+[21-Aug-2014 20:08:43 America/Denver] PHP Notice:  Undefined index: name in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 6
+[21-Aug-2014 20:08:43 America/Denver] PHP Notice:  Undefined index: email in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 11
+[21-Aug-2014 20:08:43 America/Denver] PHP Notice:  Undefined index: phone in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 13
+[21-Aug-2014 20:08:43 America/Denver] PHP Notice:  Undefined index: message in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 15
+[21-Aug-2014 20:08:43 America/Denver] PHP Notice:  Undefined index: stripHTML in /home3/primecu2/public_html/gmede/bin/MailHandler.php on line 17

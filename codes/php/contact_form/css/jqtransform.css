@@ -1,0 +1,61 @@
+/* ============================= forms ============================= */
+
+input, textarea { margin:0; font-size:1em; color:#7a7762; font-family:Arial, Helvetica, sans-serif;}
+
+#form{ background: none; border:none; position: relative;}
+#form .row{clear:both;	height:16px; padding-bottom:5px; width:100%;}
+#form .row1{clear:both;	height:22px; padding-bottom:0px; width:100%; margin-bottom:11px;}
+
+#form .jqTransformSelectWrapper div{ width:58px !important; float:left; margin-right:0px; background:#fff; color:#7a7762; font-family:Arial, Helvetica, sans-serif; border:1px solid #aca28f;}
+#form .jqTransformSelectWrapper ul{ width:58px !important; left:0;  background:#fff; color:#7a7762; position:absolute; top:22px; z-index:20;}
+#form a.jqTransformSelectOpen {background: url(../images/bg-form.png) no-repeat;}
+#form .jqTransformInputWrapper{background:#fff;}
+#form .input{ color:#7a7762; font-family:Arial, Helvetica, sans-serif;}
+#form .width-1{ width:58px; float:left; margin-right:10px}
+
+
+
+
+/* -------------
+ * Inputs
+ * ------------- */
+.jqTransformInputWrapper {float:left; height:24px; border:none; background:none; position: relative;}
+
+
+/* -------------
+ * Texarea
+ * ------------- */
+#jqTransformTextarea-ml, #jqTransformTextarea-mr{ display:none}
+.textarea{ width:503px; height:221px;border:1px solid #2b2b2b; background:none;border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px; behavior: url(js/PIE.htc); position: relative; margin-bottom:14px;}
+textarea{ width:489px; height:215px;}
+
+/* -------------
+ * Radios
+ * ------------- */
+.jqTransformRadioWrapper {float: left; display:block; margin-right:5px; margin-top:4px;}
+.jqTransformRadio {background: url(../images/radio.png) 0 0 no-repeat;	vertical-align: middle;	height: 11px; width: 11px; display:block;/*display: -moz-inline-block;*/}
+.jqTransformRadio.jqTransformChecked{ background:url(../images/radio-active.png) 0 0 no-repeat}
+/* -------------
+ * Selects
+ * ------------- */
+.jqTransformSelectWrapper {position:relative}
+
+.jqTransformSelectWrapper div {font-family:Arial, Helvetica, sans-serif; color:#7a7762; display:block; position: relative; height: 22px; line-height:1.2em; overflow: hidden; cursor:pointer; border:none; background:url(../images/bg-form.png) 0 0 repeat;}
+
+.jqTransformSelectWrapper div span {padding: 3px 0 0 7px; display:block; width:58px !important;}
+
+a.jqTransformSelectOpen {display: block; position: absolute; top:1px;	right:2px;	width: 19px; height: 19px; background: url(../images/bg-form.png) no-repeat;}
+
+.jqTransformSelectWrapper ul {position: absolute; top:226px; left: 0px; background:url(../images/bg-form.png) 0 0 repeat; border:1px solid #aca28f; display: none;
+z-index:20;  padding:3px 0; height:50px; overflow:auto; font-family:Arial, Helvetica, sans-serif;} 
+
+.jqTransformSelectWrapper ul a {display: block; padding: 0 7px; text-decoration: none;}
+
+.jqTransformSelectWrapper ul a.selected { color:#7a7762;}
+
+.jqTransformSelectWrapper ul a:hover, .jqTransformSelectWrapper ul a.selected:hover { color:#878787; }
+
+/* -------------
+ * Hidden - used to hide the original form elements
+ * ------------- */
+.jqTransformHidden {display: none;}

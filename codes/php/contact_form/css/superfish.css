@@ -1,0 +1,81 @@
+.sf-menu ul {
+	position:		absolute;
+	width:			111px; /* left offset of submenus need to match (see below) */
+	background:url(../images/bg-submenu.gif) 0 0 repeat-x #fff5be;
+	padding: 12px 17px 13px 17px;
+	z-index:999;
+	border-radius:15px;
+-moz-border-radius:15px;
+-webkit-border-radius:15px;
+}
+
+.sf-menu ul li {
+	width:			100%;
+	background:url(../images/bg-submenu-li.gif) 0 bottom repeat-x;
+	padding:0;
+	width:111px;
+	margin-bottom:0px;
+	border-radius:0px;
+-moz-border-radius:0px;
+-webkit-border-radius:0px;
+}
+
+.sf-menu ul li.last, .sf-menu ul li.last:hover, .sf-menu ul li.last.sfHover {background:none;}
+
+.sf-menu ul li:hover, .sf-menu ul li.sfHover  {
+	box-shadow:none;
+-moz-box-shadow:none;
+-webkit-box-shadow:none;
+	background:url(../images/bg-submenu-li.gif) 0 bottom repeat-x;
+}
+.sf-menu li {
+	position:		relative;
+}
+.sf-menu li:hover ul,
+.sf-menu li.sfHover ul {
+	left:			0px;
+	top:			35px; /* match top ul list item height */
+	z-index:		999;
+}
+ul.sf-menu li:hover li ul,
+ul.sf-menu li.sfHover li ul {
+	background:url(../images/bg-submenu.gif) 0 bottom repeat-x;
+	border:none;
+	padding:0;
+	width:111px;
+	padding: 12px 17px 13px 17px;
+	margin:0;
+}
+ul.sf-menu li li:hover ul,
+ul.sf-menu li li.sfHover ul {
+	left:			129px; /* match ul width */
+	top:			-11px;
+}
+
+
+
+.sf-menu li:hover li a, 
+.sf-menu li.sfHover li a {
+	display:block;
+	border: none;
+	color:#7b7051;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height:21px;
+	padding:4px 0 4px 5px;
+	width:106px;
+	text-align:left;
+	background:none;
+}
+.sf-menu li li a:hover, .sf-menu li li.sfHover a {display:block; background:none; color:#cdc3a6;}
+.sf-menu li li li {
+	background:url(../images/bg-submenu-li.gif) 0 bottom repeat-x;
+	text-align:left;
+}
+
+.sf-menu li li.sfHover li a {color:#7b7051; background:none; padding:4px 0 4px 5px;}
+.sf-menu li li.sfHover li a:hover {color:#cdc3a6; background:none;}
+.sf-menu li:hover, .sf-menu li.sfHover,
+.sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {
+	outline:		0;
+}
