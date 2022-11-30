@@ -1,0 +1,46 @@
+#Signature path{
+  fill: none;
+  stroke: #000000;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 10;
+  opacity:0;
+}
+
+#line1{
+    stroke-dasharray: 270.43;
+    animation: line1 0.35s 0s ease-in-out forwards;
+}
+#line2{
+    stroke-dasharray: 143.69;
+    animation: line2 0.25s 0.40s ease-in-out forwards;
+}
+#line3{
+    stroke-dasharray: 182.16;
+    animation: line3 0.25s 0.75s ease-in-out forwards;
+}
+#line4{
+    stroke-dasharray: 43.65;
+    animation: line4 0.5s 1s ease-in-out forwards;
+}
+#line5{
+    stroke-dasharray: 182;
+    animation: line5 0.85s 1.25s ease-in-out forwards;
+}
+#line6{
+    stroke-dasharray: 131.69;
+    animation: line6 0.25s 2.00s ease-in-out forwards;
+}
+#line7{
+    stroke-dasharray: 190;
+    animation: line7 0.25s 2.35s ease-in-out forwards;
+}
+#line8{
+    stroke-dasharray: 195.39;
+    animation: line8 0.25s 2.55s ease-in-out forwards;
+}
+#line9{
+    stroke-dasharray: 33.82;
+    animation: line9 0.5s 2.75s ease-in-out forwards;
+}

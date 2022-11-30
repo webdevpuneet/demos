@@ -1,0 +1,304 @@
+/*
+* Prefixed by:
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+@-webkit-keyframes line1 {
+    0%, 25%  {
+        opacity:1;
+        stroke-dashoffset: 270.43;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@keyframes line1 {
+    0%, 25%  {
+        opacity:1;
+        stroke-dashoffset: 270.43;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@-webkit-keyframes line2 {
+    0%, 25%  {
+        stroke-dashoffset:  143.69;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@keyframes line2 {
+    0%, 25%  {
+        stroke-dashoffset:  143.69;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@-webkit-keyframes line3 {
+    0%, 25%  {
+        stroke-dashoffset:  182.16;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@keyframes line3 {
+    0%, 25%  {
+        stroke-dashoffset:  182.16;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@-webkit-keyframes line4 {
+    0%, 25%  {
+        stroke-dashoffset:  43.65;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@keyframes line4 {
+    0%, 25%  {
+        stroke-dashoffset:  43.65;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@-webkit-keyframes line5 {
+    0%, 25%  {
+        stroke-dashoffset:  -182;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@keyframes line5 {
+    0%, 25%  {
+        stroke-dashoffset:  -182;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@-webkit-keyframes line6 {
+    0%, 25%  {
+        stroke-dashoffset: -131.69;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@keyframes line6 {
+    0%, 25%  {
+        stroke-dashoffset: -131.69;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@-webkit-keyframes line7 {
+    0%, 25%  {
+        stroke-dashoffset:  190;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@keyframes line7 {
+    0%, 25%  {
+        stroke-dashoffset:  190;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@-webkit-keyframes line8 {
+    0%, 25%  {
+        stroke-dashoffset:  195.39;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@keyframes line8 {
+    0%, 25%  {
+        stroke-dashoffset:  195.39;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@-webkit-keyframes line9 {
+    0%, 25%  {
+        stroke-dashoffset:  -33.82;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@keyframes line9 {
+    0%, 25%  {
+        stroke-dashoffset:  -33.82;
+        opacity:1;
+    }
+    90% {
+        stroke-dashoffset: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+
+/*
+* Prefixed by:
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+#Signature path{
+    fill: none;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+    opacity:0;
+  }
+  
+  .animate #line1{
+      stroke-dasharray: 270.43;
+      -webkit-animation: line1 0.35s 0s ease-in-out forwards;
+              animation: line1 0.35s 0s ease-in-out forwards;
+  }
+  .animate #line2{
+      stroke-dasharray: 143.69;
+      -webkit-animation: line2 0.25s 0.40s ease-in-out forwards;
+              animation: line2 0.25s 0.40s ease-in-out forwards;
+  }
+  .animate #line3{
+      stroke-dasharray: 182.16;
+      -webkit-animation: line3 0.25s 0.75s ease-in-out forwards;
+              animation: line3 0.25s 0.75s ease-in-out forwards;
+  }
+  .animate #line4{
+      stroke-dasharray: 43.65;
+      -webkit-animation: line4 0.5s 1s ease-in-out forwards;
+              animation: line4 0.5s 1s ease-in-out forwards;
+  }
+  .animate #line5{
+      stroke-dasharray: 182;
+      -webkit-animation: line5 0.85s 1.25s ease-in-out forwards;
+              animation: line5 0.85s 1.25s ease-in-out forwards;
+  }
+  .animate #line6{
+      stroke-dasharray: 131.69;
+      -webkit-animation: line6 0.25s 2.00s ease-in-out forwards;
+              animation: line6 0.25s 2.00s ease-in-out forwards;
+  }
+  .animate  #line7{
+      stroke-dasharray: 190;
+      -webkit-animation: line7 0.25s 2.35s ease-in-out forwards;
+              animation: line7 0.25s 2.35s ease-in-out forwards;
+  }
+  .animate #line8{
+      stroke-dasharray: 195.39;
+      -webkit-animation: line8 0.25s 2.55s ease-in-out forwards;
+              animation: line8 0.25s 2.55s ease-in-out forwards;
+  }
+  .animate #line9{
+      stroke-dasharray: 33.82;
+      -webkit-animation: line9 0.5s 2.75s ease-in-out forwards;
+              animation: line9 0.5s 2.75s ease-in-out forwards;
+  }
