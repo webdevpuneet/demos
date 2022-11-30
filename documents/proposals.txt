@@ -1,0 +1,113 @@
+# I am great PSD to HTML freelancer on Upwork #
+
+
+Hello, I see you are looking for a developer to convert your design to responsive HTML pages. I have 10+ years of experience converting designs to pixel-perfect, responsive, cross-browser compatible pages using clean and well-structured HTML/CSS/JS/Bootstrap codes and received several 5-star feedback on Upwork.
+
+Please have a look at my similar work samples:
+- https://www.dropbox.com/s/8flxepay4a2aray/work-sample-demo.mp4?dl=0 - video demo of me showing my work.
+- https://projects.webdevpuneet.com/archives/tonercity/index.html - e-commerce website front-end for Printers and Toner Cartridges from scratch.
+- https://projects.webdevpuneet.com/archives/solidusbond/ - responsive home page with slide scrolling and animation on scroll.
+- https://projects.webdevpuneet.com/archives/masoma/ - responsive home page for food & packages delivery company.
+- https://projects.webdevpuneet.com/archives/instructorhub/index.html - responsive home page for driving instructor finding website.
+- https://projects.webdevpuneet.com/archives/blackink/index.html - responsive Dashboard with charts
+- https://projects.webdevpuneet.com/archives/orbimed/dashboard.html - responsive Dashboard UI for Healthcare company
+- https://projects.webdevpuneet.com/archives/inoutside/ - components based HTML/CSS/JS coding for a web app.
+- https://projects.webdevpuneet.com/archives/mellano/index.html - components-based HTML/CSS/JS coding for a web app.
+- https://projects.webdevpuneet.com/archives/orbimed/dashboard.html - app-like dashboard UI for a healthcare company.
+
+Can you share your design files with me?
+
+Thanks and regards,
+Puneet
+
+----------------------
+
+I will update you timely with progress. I will listen to your feedback carefully and revise my work until you are satisfied with the results.
+
+Here is a feedback I got for one of my clients for a similar kind of work on Upwork:
+"Puneet again delivered above the expectations. The structure of his code was well thought through and saved us a lot of time when adding new features down the road."
+
+More Work Examples:
+Employify: Custom Dashboard UI for Employment solution website for Jobseekers
+https://projects.webdevpuneet.com/archives/employify/job-seeker/index.html - Profile page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/index.html - Admin page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/inbox.html - Inbox page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/blog/all-posts.html - Blog creation page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/inbox-single.html - Message page
+
+---------------------
+
+Hi, I see you are looking for a developer to convert your designs to pixel-perfect and mobile responsive web pages. I am interested in the job. I have consistently delivered desired results for my clients with almost 100% success rates by testing and revising my work according to their feedback.
+
+Work Sample (video demo) - https://www.dropbox.com/s/8flxepay4a2aray/work-sample-demo.mp4?dl=0
+
+I worked on a similar project where a client asked to convert their website's home-page design to a responsive page layout. I used the Bootstrap framework to develop pages rapidly with custom HTML, CSS, SCSS, JS, and jQuery and added meaningful animations on page load.
+Home-page - https://projects.webdevpuneet.com/archives/employify/index.html
+
+The client was happy with the result and gave 5-star rating feedback on Upwork and asked me to develop the rest of the pages.
+Profile page - https://projects.webdevpuneet.com/archives/employify/job-seeker/index.html
+Admin page - https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/index.html
+
+Feedback from the client:
+"Puneet has been amazing so far. He's smart, has extreme attention to detail, and is timely and VERY on top of the game. We will be working with him for a long time to come."
+Can you share the design files with me?
+
+Thanks and regards,
+Puneet
+
+
+
+---------- Wordpress ---------------
+
+
+Here is some more info about the process...
+
+The website will be created using WordPress (https://wordpress.com/) CMS and Divi theme builder. (https://www.elegantthemes.com/ with lifetime updates for Divi ). The website will be editable by you at the front end so you can change images and text even by yourself.
+
+Examples website (will be responsive on mobile, tablets) - https://www.tulexpharma.com/
+
+You can suggest website design ideas or I can suggest designs for pages, sections from - https://www.elegantthemes.com/layouts/ - colors will be suggested by you, I can also suggest colors font, etc.
+
+Logo, and videos (if any) will be provided by you.
+
+The website domain name and hosting services will be purchased/subscribed by you. You can use Bluehost - https://www.bluehost.com/track/puneet438 for these services.
+Text - content will be provided by you. I will suggest better ways to place/create.
+
+Images will be provided by you, and I can also suggest using - I can also suggest using free stock images from - https://www.freepik.com/ (in case the image is paid you will have to pay for it separately on your side and provide me the images).
+
+Creating new pages, adding WordPress plugins for speed and security, contact forms, and basic page SEO will be covered by me.
+
+Payments: will take payments via Upwork direct contract ( https://www.upwork.com/direct-contracts/cl ) - 650$ near to 50,000 rs - any number of edits / revisions in the first month.
+
+Work Days: Mon - Fri, 10am - 5pm.
+Sat & Sun - I will attend to your messages and update you about the project asap.
+
+Progress report - almost daily. 3hrs/day minimum development time will be allocated for your project.
+
+If development continues after one month period then you can hire me for the next 15 days for 325$ and so on.
+
+You can hire me on an hourly basis at 20$/hr on Upwork if you wish after 1 month if work is very less and requires just a few days or hours. Jun
+
+
+--------------- Proposal Structure ----------------------
+
+
+Hi, I see you are looking for a developer to convert your designs in Figma to HTML/CSS/JS pages... (edited) 
+
+I have consistently delivered pixel-perfect, cross-browser compatible, and responsive pages with almost 100% success rates by testing and revising my work according to the client's feedback. Please have a look at my similar work examples: (edited) 
+
+Examples: show clients one or more examples of your similar work.
+Tour guide: Tour guide the client from that piece of work.
+What makes it relevant?
+What did you learn from working on it?
+What makes it good?
+What makes it unique/stand out?
+What result did it achieve? (even an intangible one - "the client was happy and rehired me")
+Any feedback on Upwork?
+
+Call to action:
+Ask a question about the project (can you share the design files with me?)
+Or, invite the client to a quick chat or a call to discuss further
+
+Thanks and regards,
+Puneet

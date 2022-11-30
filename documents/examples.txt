@@ -1,0 +1,180 @@
+Recent Projects:
+https://projects.webdevpuneet.com/wp/tulexpharm/ - Tulexpharm - Website created with WordPress, Divi and ACF
+https://projects.webdevpuneet.com/wp/divi/tulexpharm/ - Tulexpharm - I designed
+Xpertise - https://projects.webdevpuneet.com/archives/xpertise/index.html - Created responsive home page.
+Mellano - https://projects.webdevpuneet.com/archives/mellano/index.html - Components based HTML Coding for React App.
+Mellano - Receipts - https://projects.webdevpuneet.com/archives/mellano/receipts/index.html
+https://webdevpuneet.com/ - Webdevpuneet - My portfolio/blog website on WordPress built with DIVI theme builder.
+
+https://projects.webdevpuneet.com/archives/allround-edu/index.html - WordPress to static HTML website conversion.
+
+New Projects:
+Simple responsive single page website - https://projects.webdevpuneet.com/archives/senbazuru/index.html
+Developer Summit - https://projects.webdevpuneet.com/archives/developersummit/index.html
+
+WordPress:
+https://webdevpuneet.com/contact/ - Landing page created with Divi and blog.
+Youinverse - https://www.youniverse.co.uk - Portfolio website on WordPress using advanced custom fields for backed functionality.
+https://projects.webdevpuneet.com/wp/redstring/ - Redstring - ACF + WP Bootstrap 4
+https://projects.webdevpuneet.com/wp/gymla/ - The Gym la - One-page company portfolio website on WordPress.
+Ashworth - https://projects.webdevpuneet.com/wp/ashworth/ - One-page company portfolio website on WordPress.
+Honesteonline Blog - https://projects.webdevpuneet.com/wp/honesteonlineblog/ - Custom Audio, Video and Text format supported blog on WordPress
+GZMotorsports - https://projects.webdevpuneet.com/wp/gzmotors/
+
+PSD to HTML5:
+Tonercity - https://projects.webdevpuneet.com/archives/tonercity/index.html - create E-commerce website front-end for Printers and Toner Cartridges from scratch.
+Masoma - https://projects.webdevpuneet.com/archives/masoma/ - Responsive home page for delivers food & packages delivery company.
+InstructorHub - https://projects.webdevpuneet.com/archives/instructorhub/index.html - Responsive home page for driving instructor finding website.
+AustraliaBB - https://projects.webdevpuneet.com/archives/australiabb/plan1.html - Responsive plan selection steps form for Australia Broadband.
+Blackink - https://projects.webdevpuneet.com/archives/blackink/index.html - Responsive Dashboard with charts
+Orbimed - https://projects.webdevpuneet.com/archives/orbimed/dashboard.html - Dashboard UI for Healthcare company
+CSSVentures - https://projects.webdevpuneet.com/archives/cssventures/ - Responsive Home page for investment platform company
+Employify: Custom Dashboard UI for Employment solution website for Jobseekers
+https://projects.webdevpuneet.com/archives/employify/job-seeker/index.html - Profile page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/index.html - Admin page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/inbox.html - Inbox page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/blog/all-posts.html - Blog creation page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/inbox-single.html - Message page
+
+Web App:
+https://projects.webdevpuneet.com/archives/inoutside/ - Components based HTML/CSS/JS Coding for a Web App.
+https://projects.webdevpuneet.com/archives/mellano/index.html - Components based HTML Coding for a Web App.
+Orbimed - https://projects.webdevpuneet.com/archives/orbimed/dashboard.html - App like dashboard UI for a Healthcare company.
+
+HealthDeal - https://projects.webdevpuneet.com/archives/healthdeal/ - Responsive front-end lead capture landing page for a Health Cover firm.
+Solidusbond - https://projects.webdevpuneet.com/archives/solidusbond/ - Responsive home page with slide scrolling and animation on scroll
+https://projects.webdevpuneet.com/archives/sstest/index.html
+
+Not responsive:
+https://projects.webdevpuneet.com/archives/cigarsofhabanos/ - PSD to HTML
+
+Mobile Site:
+Mobile Site - https://projects.webdevpuneet.com/archives/leo/mobilesite/index.html - mobile lead capture website for internet provider website.
+AstroTrack Night App - https://projects.webdevpuneet.com/archives/astrotrack/AstroTrac360Control/AstroTrac360.html
+
+Files:
+Masoma PSD to HTML Files - http://bit.ly/psdtohtml-webdevpuneetdotcom
+
+Wireframes:
+Estylen - https://168tkg.axshare.com - Password: 1234 - Website wireframe for a fast delivery e-commerce startup
+Employify - https://d6uc0n.axshare.com - Password: 1234 - Website wireframe for employment solution based website
+
+Inkstation - Adobe XD to HTML
+https://projects.webdevpuneet.com/archives/inkstation/mobile/index.html
+https://projects.webdevpuneet.com/archives/inkstation/login.html
+https://projects.webdevpuneet.com/archives/inkstation/payment.html
+https://projects.webdevpuneet.com/archives/inkstation/login-done.html
+https://projects.webdevpuneet.com/archives/inkstation/login-password.html
+https://projects.webdevpuneet.com/archives/inkstation/register.html
+https://projects.webdevpuneet.com/archives/inkstation/shipping.html
+https://projects.webdevpuneet.com/archives/inkstation/shipping-edit.html
+
+Olavs - Tablet + Mob Web App
+https://projects.webdevpuneet.com/archives/olavs/index.html
+https://projects.webdevpuneet.com/archives/olavs/index.html
+https://projects.webdevpuneet.com/archives/olavs/page2.html
+https://projects.webdevpuneet.com/archives/olavs/page3.html
+https://projects.webdevpuneet.com/archives/olavs/page4.html
+https://projects.webdevpuneet.com/archives/olavs/page5.html
+https://projects.webdevpuneet.com/archives/olavs/page6.html
+https://projects.webdevpuneet.com/archives/olavs/page7.html
+
+Video Demos:
+http://bit.ly/qyuki-video-demo - PSD to HTML - UI/UX
+http://bit.ly/ashworth-work-video-sample - PSD to WordPress - WordPress
+http://bit.ly/email-testing-demo - Email Development
+http://bit.ly/contentcloud-work-video-sample - PSD to HTML - Product - UI/UX
+http://bit.ly/zenwindows-video-demo - PSD to HTML - 360 degree product turn - WordPress
+http://bit.ly/ashworth-work-video-sample
+http://bit.ly/contentcloud-work-video-sample
+
+
+----------------
+
+CSS / SVG Animation Examples
+https://projects.webdevpuneet.com/archives/hashh/animation/messaging2/
+https://projects.webdevpuneet.com/archives/hashh/animation/integrations/
+https://projects.webdevpuneet.com/archives/hashh/animation/print-media2/
+https://projects.webdevpuneet.com/archives/hashh/animation/digital-marketing2/
+https://projects.webdevpuneet.com/archives/hashh/animation/design-marketplace/
+https://projects.webdevpuneet.com/archives/hashh/animation/influencers2/
+https://projects.webdevpuneet.com/archives/hashh/animation/email2/
+https://projects.webdevpuneet.com/archives/hashh/animation/voice/
+https://projects.webdevpuneet.com/archives/hashh/animation/events/
+https://projects.webdevpuneet.com/archives/hashh/animation/loyalty2/
+https://projects.webdevpuneet.com/archives/hashh/animation/loyalty/
+https://projects.webdevpuneet.com/archives/hashh/animation/digital-advertising/
+https://projects.webdevpuneet.com/archives/hashh/animation/chatbot/
+https://projects.webdevpuneet.com/archives/hashh/animation/audit1/
+https://projects.webdevpuneet.com/archives/hashh/animation/audit2/
+https://projects.webdevpuneet.com/archives/hashh/animation/chatbot2/
+https://projects.webdevpuneet.com/archives/hashh/animation/design-marketplace2/
+https://projects.webdevpuneet.com/archives/hashh/animation/digital-marketing/
+https://projects.webdevpuneet.com/archives/hashh/animation/events2/
+https://projects.webdevpuneet.com/archives/hashh/animation/influencers/
+https://projects.webdevpuneet.com/archives/hashh/animation/integrations2/
+https://projects.webdevpuneet.com/archives/hashh/animation/print-media/
+https://projects.webdevpuneet.com/archives/hashh/animation/email/
+https://projects.webdevpuneet.com/archives/hashh/animation/marketing/
+https://projects.webdevpuneet.com/archives/hashh/animation/header/
+https://projects.webdevpuneet.com/archives/hashh/animation/messaging/
+https://projects.webdevpuneet.com/archives/hashh/animation/voice2/
+
+
+-----------------------
+
+
+Logo Animation: 
+https://projects.webdevpuneet.com/archives/blockcube/animation/ibw-logo/v3/
+https://projects.webdevpuneet.com/archives/blockcube/animation/ibw-logo/v2/
+https://projects.webdevpuneet.com/archives/blockcube/animation/ibw-logo/v1/
+Touring events logo animation -
+https://projects.webdevpuneet.com/archives/blockcube/animation/turingevents-logo/v6/
+https://projects.webdevpuneet.com/archives/blockcube/animation/turingevents-logo/v5/
+https://projects.webdevpuneet.com/archives/blockcube/animation/turingevents-logo/v4/
+https://projects.webdevpuneet.com/archives/blockcube/animation/turingevents-logo/v3/
+https://projects.webdevpuneet.com/archives/blockcube/animation/turingevents-logo/v2/
+https://projects.webdevpuneet.com/archives/blockcube/animation/turingevents-logo/v1/
+Website responsive user interface -
+https://projects.webdevpuneet.com/archives/blockcube/site1/index.html
+https://projects.webdevpuneet.com/archives/blockcube/site1/shop.html
+https://projects.webdevpuneet.com/archives/blockcube/site1/shop-single.html
+
+
+------------------------
+
+Traces logo animation:
+Grayscale Static - https://projects.webdevpuneet.com/archives/blockcube/animation/traces-logo/v2/grayscale-static/
+Colored Animated - https://projects.webdevpuneet.com/archives/blockcube/animation/traces-logo/v2/
+Grayscale Animated - https://projects.webdevpuneet.com/archives/blockcube/animation/traces-logo/v2/grayscale/
+Grayscale All Whites Transparent Animated - https://projects.webdevpuneet.com/archives/blockcube/animation/traces-logo/v2/grayscale-transparent/
+
+---------------------
+
+https://projects.webdevpuneet.com/demos/work-samples.html
+
+------------------------
+
+Best Examples - PSD to HTML:
+Tonercity - https://projects.webdevpuneet.com/archives/tonercity/index.html - create E-commerce website front-end for Printers and Toner Cartridges from scratch.
+Masoma - https://projects.webdevpuneet.com/archives/masoma/ - Responsive home page for delivers food & packages delivery company.
+InstructorHub - https://projects.webdevpuneet.com/archives/instructorhub/index.html - Responsive home page for driving instructor finding website.
+Blackink - https://projects.webdevpuneet.com/archives/blackink/index.html - Responsive Dashboard with charts
+Orbimed - https://projects.webdevpuneet.com/archives/orbimed/dashboard.html - Dashboard UI for Healthcare company
+CSSVentures - https://projects.webdevpuneet.com/archives/cssventures/ - Responsive Home page for investment platform company
+Employify: Custom Dashboard UI for Employment solution website for Jobseekers
+https://projects.webdevpuneet.com/archives/employify/job-seeker/index.html - Profile page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/index.html - Admin page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/inbox.html - Inbox page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/blog/all-posts.html - Blog creation page
+https://projects.webdevpuneet.com/archives/employify/job-seeker/admin/inbox-single.html - Message page
+
+
+--------------------------
+
+
+Email
+
+https://projects.webdevpuneet.com/demos/email/index.html
+
+
