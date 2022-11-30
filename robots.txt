@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://demos.webdevpuneet.com/sitemaps/sitemap-1.xml
