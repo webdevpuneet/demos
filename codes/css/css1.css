@@ -1,0 +1,43 @@
+
+
+
+
+
+
+/* Clamp Static values */
+width: clamp(200px, 40%,  400px);
+width: clamp(20rem, 30vw, 70rem);
+width: clamp(10vw,  20em, 100vw);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Clamp Calculated values */
+width: clamp(min(10vw, 20rem), 300px, max(90vw, 55rem));
+width: clamp(100px, calc(30% / 2rem + 10px), 900px);
+
+
+/* Zebra stripe for more than two colors */
+.zebraStrip &gt; div:nth-child(6n+1),
+.zebraStrip &gt; div:nth-child(6n+4){
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFF3C2 100%);
+}
+.zebraStrip &gt; div:nth-child(6n+2),
+.zebraStrip &gt; div:nth-child(6n+5){
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #DB96FF 100%);
+}
+.zebraStrip &gt; div:nth-child(6n+3),
+.zebraStrip &gt; div:nth-child(6n){
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFDADE 100%);
+}
