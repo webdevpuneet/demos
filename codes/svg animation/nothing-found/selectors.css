@@ -1,0 +1,55 @@
+/* Reset Browser Styles */
+body {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+}
+
+#text{
+  animation: fadeIn 0.5s forwards;
+}
+
+#bee-path{
+  clip-path: polygon(0 100%, 100% 100%, 100% 100%, 0% 100%);
+  animation: beePathUp 3.5s 0.25s linear forwards;
+}
+
+#tail{
+  transform-origin: 612px 256px;
+  animation: upDownTail 1.5s ease-in-out infinite;
+}
+
+#dog-head{
+  transform-origin: 499px 44px;
+  animation: dogHead 1.5s ease-in-out infinite;
+}
+
+#dog-left-ear{
+  transform-origin: 504px 5px;
+  animation: dogLeftEar 1.5s ease-in-out infinite;
+}
+
+#dog-right-ear{
+  transform-origin: 504px 5px;
+  animation: dogLeftEar 1.5s ease-in-out infinite;
+}
+
+#drops > g{
+  transform-origin: 484px 19px;
+  animation: drops 3s linear infinite;
+}
+
+#beeInner{
+  animation: beeMove 3s ease-in-out infinite;
+  animation-delay: 3.5s;
+}
+#bee-left-wing{
+  transform-origin: 367px 41px;
+  animation: beeLeftWing 0.5s ease-in-out infinite;
+}
+#bee-right-wing{
+  transform-origin: 355px 52px;
+  animation: beeRightWing 0.5s ease-in-out infinite;
+}

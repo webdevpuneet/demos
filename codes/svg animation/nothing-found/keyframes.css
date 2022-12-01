@@ -1,0 +1,121 @@
+/* Keyframes */
+
+
+@keyframes fadeIn {
+  0% {
+    clip-path: polygon(0 0, 0 0, 0 100%, 0% 100%);
+  }
+  100% {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+  }
+}
+
+@keyframes beePathUp {
+  0% {
+    clip-path: polygon(0 100%, 100% 100%, 100% 100%, 0% 100%);
+  }
+  50%{
+    clip-path: polygon(0 57%, 100% 56%, 100% 100%, 0% 100%);
+  }
+  75%{
+    clip-path: polygon(0 42%, 100% 40%, 100% 100%, 0% 100%);
+  }
+  100% {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+  }
+}
+
+@keyframes upDownTail {
+  0% {
+    transform: rotate(5deg);
+  }
+  50%{
+    transform: rotate(-5deg);
+  }
+  100% {
+    transform: rotate(5deg);
+  }
+}
+
+@keyframes dogHead {
+  0% {
+    transform: rotate(1.75deg);
+  }
+  50%{
+    transform: rotate(-1.75deg);
+  }
+  100% {
+    transform: rotate(1.75deg);
+  }
+}
+
+@keyframes dogLeftEar {
+  0% {
+    transform: rotate(1.5deg);
+  }
+  50%{
+    transform: rotate(-1.5deg);
+  }
+  100% {
+    transform: rotate(1.5deg);
+  }
+}
+
+@keyframes drops {
+  0% {
+    transform: scale(0.5);
+    opacity: 1;
+  }
+
+  35%{
+    transform: scale(0.85);
+    opacity: 1;
+  }
+  50%{
+    transform: scale(1);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
+
+@keyframes beeMove {
+  0%{
+    transform:translate3d(-0, -0, 0);
+  }
+  50%{
+    transform:translate3d(10px, -10px, 0);
+  }
+  100%{
+    transform:translate3d(-0, -0, 0);
+  }
+}
+
+
+@keyframes beeLeftWing {
+  0%{
+    transform:rotate(0);
+  }
+  50%{
+    transform:rotate(10deg);
+  }
+  100%{
+    transform:rotate(0);
+  }
+}
+
+@keyframes beeRightWing {
+  0%{
+    transform:rotate(0);
+  }
+  50%{
+    transform:rotate(-10deg);
+  }
+  100%{
+    transform:rotate(0);
+  }
+}
+
+/* eof keyframes */
