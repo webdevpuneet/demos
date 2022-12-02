@@ -5,8 +5,10 @@ gsap.to(".square", {
     duration: 3,
     scrollTrigger: {
         trigger: ".square", 
-        start: "center center",
+        start: "top 60%",
+        end: "bottom 30%",
         markers: true,
         scrub: true,
+        toggleClass: 'red'
     }
 })

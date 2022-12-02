@@ -21,10 +21,15 @@ body{
   background-color: rgb(61, 203, 90);
 }
 
+
 .square{
   width: 150px;
   height: 150px;
   background-color: fuchsia;
+}
+
+.red{
+  background-color: red;
 }
 
 .square2{

@@ -13,6 +13,27 @@ gsap.to(".logo", {duration:2, x: 300, backgroundColor:"#560563", borderRadius: "
 gsap.to(".square", {
     x: 700,
     duration: 3,
-    scrollTrigger: ".div3"
+    scrollTrigger: {
+        trigger: ".square", 
+        start: "center center",
+        markers: true,
+        scrub: true,
+        toggleClass: 'red'
+    }
 })
+
+// setting triggers top bottom, pixel and in percentage
+gsap.to(".square", {
+    x: 700,
+    duration: 3,
+    scrollTrigger: {
+        trigger: ".square", 
+        start: "top 60%",
+        end: "bottom 30%",
+        markers: true,
+        scrub: true,
+        toggleClass: 'red'
+    }
+})
+
 
