@@ -1,0 +1,273 @@
+/* Reset Browser Styles */
+body{ margin:0; padding:0; box-sizing:border-box; } *{box-sizing:border-box;}
+
+
+/* Styles */
+
+.dinosaur .branches > g{
+  animation: dinosaurPlantAnim 2.5s linear infinite;
+}
+.dinosaur .branches > g:nth-child(1){
+  transform-origin: 736px 400px;
+  animation-delay: -500ms;
+}
+.dinosaur .branches > g:nth-child(2){
+  transform-origin: 736px 400px;
+  animation-delay: -1000ms;
+}
+.dinosaur .branches > g:nth-child(3){
+  transform-origin: 815px 272px;
+}
+.dinosaur .branches > g:nth-child(4){
+  transform-origin: 815px 272px;
+  animation-delay: -500ms;
+}
+.dinosaur .branches > g:nth-child(5){
+  transform-origin: 736px 400px;
+  animation-delay: -1000ms;
+}
+.dinosaur .branches > g:nth-child(6){
+  transform-origin: 815px 272px;
+}
+.dinosaur .branches > g:nth-child(7){
+  transform-origin: 815px 272px;
+}
+.dinosaur .branches > g:nth-child(8){
+  transform-origin: 736px 400px;
+  animation-delay: -500ms;
+}
+.dinosaur .branches > g:nth-child(9){
+  transform-origin: 736px 400px;
+  animation-delay: -1000ms;
+}
+.dinosaur .branches > g:nth-child(10){
+  transform-origin: 815px 272px;
+}
+
+
+
+
+
+
+.dinosaur{
+  transform-origin: 380px 275px;
+}
+
+.dinosaur .body{
+  transform-origin: 380px 275px;
+}
+
+/* Background */
+.dinosaur .background{
+
+}
+.dinosaur .clouds > g{
+  animation: dinosaurCloudsAnim 15s linear infinite;
+}
+
+
+/* Legs */
+
+
+
+/* Trunk Area */
+.dinosaur .upper-body{
+  transform-origin: 782px 625px;
+  animation: dinosaurUpperBodyAnim 3s ease-in-out infinite;
+}
+.dinosaur  .left-leg-skin{
+  transform-origin: 782px 625px;
+  animation: dinosaurUpperBodyAnim 3s ease-in-out infinite;
+}
+.dinosaur .stomach{
+  transform-origin: 690px 651px;
+  animation: dinosaurStomachAnim 3s ease-in-out infinite;
+}
+
+.dinosaur .nostril{
+  transform-origin: 508px 487px;
+  animation: dinosaurNostrilAnim 3s ease-in-out infinite;
+}
+
+
+/* Eyes */
+.dinosaur .eye{
+  transform-origin: 588px 446px;
+  animation: dinosaurEyeBallAnim 3s ease-in-out infinite;
+}
+
+/* Tears */
+.dinosaur .tears{
+
+}
+.dinosaur .tear1{
+  transform-origin: 578px 473px;
+  animation: dinosaurTearAnim 3s ease-in infinite;
+  opacity: 0;
+  animation-delay: 500ms;
+}
+.dinosaur .tear2{
+  transform-origin: 578px 473px;
+  animation: dinosaurTearAnim 3s ease-in infinite;
+  opacity: 0;
+  animation-delay: 1000ms;
+}
+.dinosaur .tear3{
+  display: none;
+}
+
+/* Hands */
+.dinosaur .left-hand{
+  transform-origin: 707px 587px;
+  animation: dinosaurHandAnim 3s ease-in-out infinite;
+  transform: rotate(-5deg);
+  animation-delay: -1000ms;
+}
+.dinosaur .right-hand{
+  transform-origin: 686px 575px;
+  animation: dinosaurHandAnim 3s ease-in-out infinite;
+
+  transform: rotate(-5deg);
+}
+
+
+
+/* Tail */
+.dinosaur .tail{
+  transform-origin: 908px 637px;
+  animation: dinosaurTailAnim 3s ease-in-out infinite;
+}
+.dinosaur .tail > g{
+  transform-origin: 908px 581px;
+  animation: dinosaurTailUpDownAnim 3s ease-in-out infinite;
+}
+
+
+
+.dinosaur .skin{
+  transform-origin: 436px 304px;
+  animation: dinosaurSkinAnim 3s ease-in-out infinite;
+}
+
+
+
+
+.dinosaur .plants > g,
+.dinosaur .flower{
+  animation: dinosaurPlantAnim 2.5s linear infinite;
+}
+.dinosaur .flower{
+  transform-origin: 950px 806px;
+}
+.dinosaur .plants > g:nth-child(1){
+  transform-origin: 580px 800px;
+}
+.dinosaur .plants > g:nth-child(2){
+  transform-origin: 587px 800px;
+}
+.dinosaur .plants > g:nth-child(3){
+  transform-origin: 944px 805px;
+}
+.dinosaur .plants > g:nth-child(4){
+  transform-origin: 964px 806px;
+}
+.dinosaur .plants > g:nth-child(5){
+  transform-origin: 971px 803px;
+}
+
+
+
+
+/* Right Corner Birds */
+.dinosaur .bird-right{
+  transform-origin: 1128px 237px;
+  animation: dinosaurBirdAnimRightDistance 10s linear infinite;
+}
+.dinosaur .bird-up-down{
+  transform-origin: 1128px 237px;
+  animation: dinosaurBirdAnimUpDown 10s ease-in-out infinite;
+}
+.dinosaur .bird8,
+.dinosaur .bird9,
+.dinosaur .bird7{
+}
+
+.dinosaur .bird8 g,
+.dinosaur .bird9 g,
+.dinosaur .bird7 g{
+  animation: dinosaurBirdAnimRightWings 2s linear infinite;
+}
+.dinosaur .bird7 g{
+  transform-origin: 1066px 245px;
+}
+.dinosaur .bird8 g{
+  transform-origin: 1137px 256px;
+}
+.dinosaur .bird9 g{
+  transform-origin: 1199px 220px;
+}
+
+
+/* left corner birds */
+.dinosaur .bird3,
+.dinosaur .bird4,
+.dinosaur .bird5,
+.dinosaur .bird6{
+  transform-origin:448px 235px;
+  animation: dinosaurBirdAnimRightRotate 20s linear infinite;
+}
+.dinosaur .bird1,
+.dinosaur .bird2{
+  transform-origin:572px 213px;
+  animation: dinosaurBirdAnimRightRotate 20s linear infinite;
+}
+
+
+
+.dinosaur .bird2{
+}
+.dinosaur .bird1 g{
+  transform-origin: 468px 245px;
+}
+.dinosaur .bird2 g{
+  transform-origin: 495px 289px;
+}
+.dinosaur .bird3 g{
+  transform-origin: 520px 240px;
+}
+.dinosaur .bird4 g{
+  transform-origin: 552px 230px;
+}
+.dinosaur .bird5 g{
+  transform-origin: 596px 213px;
+}
+.dinosaur .bird6 g{
+  transform-origin: 619px 239px;
+}
+.dinosaur .bird1 g,
+.dinosaur .bird2 g,
+.dinosaur .bird3 g,
+.dinosaur .bird4 g,
+.dinosaur .bird5 g,
+.dinosaur .bird6 g{
+  animation: dinosaurBirdAnimRightWings 2s linear infinite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* eof Styles */

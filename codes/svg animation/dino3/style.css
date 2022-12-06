@@ -1,0 +1,1006 @@
+/*
+* Prefixed by:
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/* Keyframes */
+
+
+@-webkit-keyframes dinosaurBirdAnimRightDistance {
+  0%{
+    -webkit-transform: translate3d(0px, 0, 0) scale(0.25, 0.25);
+            transform: translate3d(0px, 0, 0) scale(0.25, 0.25);
+  }
+  75% {
+    -webkit-transform: translate3d(-900px, -150px, 0) scale(2, 2);
+            transform: translate3d(-900px, -150px, 0) scale(2, 2);
+  }
+  100%{
+    -webkit-transform: translate3d(-900px, -150px, 0) scale(1, 1);
+            transform: translate3d(-900px, -150px, 0) scale(1, 1);
+  }
+}
+
+
+@keyframes dinosaurBirdAnimRightDistance {
+  0%{
+    -webkit-transform: translate3d(0px, 0, 0) scale(0.25, 0.25);
+            transform: translate3d(0px, 0, 0) scale(0.25, 0.25);
+  }
+  75% {
+    -webkit-transform: translate3d(-900px, -150px, 0) scale(2, 2);
+            transform: translate3d(-900px, -150px, 0) scale(2, 2);
+  }
+  100%{
+    -webkit-transform: translate3d(-900px, -150px, 0) scale(1, 1);
+            transform: translate3d(-900px, -150px, 0) scale(1, 1);
+  }
+}
+
+@-webkit-keyframes dinosaurBirdAnimUpDown {
+  0%{
+    -webkit-transform: translateY(-150px);
+            transform: translateY(-150px);
+  }
+  25%{
+    -webkit-transform: translateY(100px);
+            transform: translateY(100px);
+  }
+  75%{
+    -webkit-transform: translateY(-150px);
+            transform: translateY(-150px);
+  }
+  100%{
+    -webkit-transform: translateY(-150px);
+            transform: translateY(-150px);
+  }
+}
+
+@keyframes dinosaurBirdAnimUpDown {
+  0%{
+    -webkit-transform: translateY(-150px);
+            transform: translateY(-150px);
+  }
+  25%{
+    -webkit-transform: translateY(100px);
+            transform: translateY(100px);
+  }
+  75%{
+    -webkit-transform: translateY(-150px);
+            transform: translateY(-150px);
+  }
+  100%{
+    -webkit-transform: translateY(-150px);
+            transform: translateY(-150px);
+  }
+}
+
+
+@-webkit-keyframes dinosaurPlantAnim{
+  0%, 100% {
+      -webkit-transform: rotate(0deg);
+              transform: rotate(0deg);
+  }
+  25%{
+    -webkit-transform: rotate(-1.5deg);
+            transform: rotate(-1.5deg);
+  }
+  75% {
+      -webkit-transform: rotate(1.5deg);
+              transform: rotate(1.5deg);
+  }
+}
+
+
+@keyframes dinosaurPlantAnim{
+  0%, 100% {
+      -webkit-transform: rotate(0deg);
+              transform: rotate(0deg);
+  }
+  25%{
+    -webkit-transform: rotate(-1.5deg);
+            transform: rotate(-1.5deg);
+  }
+  75% {
+      -webkit-transform: rotate(1.5deg);
+              transform: rotate(1.5deg);
+  }
+}
+
+@-webkit-keyframes dinosaurCloudsAnim{
+  0%{
+      -webkit-transform: translate3d(-50px, 0px, 0px);
+              transform: translate3d(-50px, 0px, 0px);
+      opacity: 0;
+  }
+  15%{
+    opacity: 1;
+  }
+  85% {
+      opacity: 1;
+  }
+  100%{
+    opacity: 0;
+    -webkit-transform: translate3d(50px, 0px, 0px);
+            transform: translate3d(50px, 0px, 0px);
+  }
+}
+
+@keyframes dinosaurCloudsAnim{
+  0%{
+      -webkit-transform: translate3d(-50px, 0px, 0px);
+              transform: translate3d(-50px, 0px, 0px);
+      opacity: 0;
+  }
+  15%{
+    opacity: 1;
+  }
+  85% {
+      opacity: 1;
+  }
+  100%{
+    opacity: 0;
+    -webkit-transform: translate3d(50px, 0px, 0px);
+            transform: translate3d(50px, 0px, 0px);
+  }
+}
+
+
+@-webkit-keyframes dinosaurTearAnim {
+  0%{
+    -webkit-transform: scale(0, 0) translateY(0);
+            transform: scale(0, 0) translateY(0);
+    opacity: 1;
+  }
+  25%{
+    -webkit-transform: scale(0, 0) translateY(0);
+            transform: scale(0, 0) translateY(0);
+    opacity: 1;
+  }
+  26%{
+    -webkit-transform: scale(0, 0) translateY(0);
+            transform: scale(0, 0) translateY(0);
+  }
+  37.5%{
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  70%{
+    -webkit-transform: scale(1, 1) translateY(65px);
+            transform: scale(1, 1) translateY(65px);
+    opacity: 1;
+  }
+  95%{
+    -webkit-transform: scale(1, 1) translateY(150px);
+            transform: scale(1, 1) translateY(150px);
+    opacity: 0;
+  }
+  100%{
+    -webkit-transform: scale(1, 1) translateY(150px);
+            transform: scale(1, 1) translateY(150px);
+    opacity: 0;
+  }
+}
+
+
+@keyframes dinosaurTearAnim {
+  0%{
+    -webkit-transform: scale(0, 0) translateY(0);
+            transform: scale(0, 0) translateY(0);
+    opacity: 1;
+  }
+  25%{
+    -webkit-transform: scale(0, 0) translateY(0);
+            transform: scale(0, 0) translateY(0);
+    opacity: 1;
+  }
+  26%{
+    -webkit-transform: scale(0, 0) translateY(0);
+            transform: scale(0, 0) translateY(0);
+  }
+  37.5%{
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  70%{
+    -webkit-transform: scale(1, 1) translateY(65px);
+            transform: scale(1, 1) translateY(65px);
+    opacity: 1;
+  }
+  95%{
+    -webkit-transform: scale(1, 1) translateY(150px);
+            transform: scale(1, 1) translateY(150px);
+    opacity: 0;
+  }
+  100%{
+    -webkit-transform: scale(1, 1) translateY(150px);
+            transform: scale(1, 1) translateY(150px);
+    opacity: 0;
+  }
+}
+
+
+
+@-webkit-keyframes dinosaurSkinAnim{
+  0%, 100%{
+    -webkit-transform: rotate(-1deg);
+            transform: rotate(-1deg);
+  }
+  50%{
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+}
+
+
+
+@keyframes dinosaurSkinAnim{
+  0%, 100%{
+    -webkit-transform: rotate(-1deg);
+            transform: rotate(-1deg);
+  }
+  50%{
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+}
+
+@-webkit-keyframes dinosaur_bgAnim {
+    0%{
+
+    }
+    100%{
+
+    }
+}
+
+@keyframes dinosaur_bgAnim {
+    0%{
+
+    }
+    100%{
+
+    }
+}
+
+
+
+
+
+
+@-webkit-keyframes dinosaurHandAnim {
+  0%, 100%{
+    -webkit-transform: rotate(-5deg);
+            transform: rotate(-5deg);
+  }
+  50%{
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+}
+
+
+
+
+
+
+@keyframes dinosaurHandAnim {
+  0%, 100%{
+    -webkit-transform: rotate(-5deg);
+            transform: rotate(-5deg);
+  }
+  50%{
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+}
+
+
+
+
+@-webkit-keyframes dinosaurNostrilAnim {
+  0%, 100%{
+    -webkit-transform: scale(1.05, 1.05);
+            transform: scale(1.05, 1.05);
+  }
+  50%{
+    -webkit-transform: scale(0.85, 0.85);
+            transform: scale(0.85, 0.85);
+  }
+}
+
+
+
+
+@keyframes dinosaurNostrilAnim {
+  0%, 100%{
+    -webkit-transform: scale(1.05, 1.05);
+            transform: scale(1.05, 1.05);
+  }
+  50%{
+    -webkit-transform: scale(0.85, 0.85);
+            transform: scale(0.85, 0.85);
+  }
+}
+
+
+
+@-webkit-keyframes dinosaurStomachAnim {
+  0%, 100%{
+    -webkit-transform: scale(0.99, 0.99);
+            transform: scale(0.99, 0.99);
+  }
+  50%{
+    -webkit-transform: scale(1, 1);
+            transform: scale(1, 1);
+  }
+}
+
+
+
+@keyframes dinosaurStomachAnim {
+  0%, 100%{
+    -webkit-transform: scale(0.99, 0.99);
+            transform: scale(0.99, 0.99);
+  }
+  50%{
+    -webkit-transform: scale(1, 1);
+            transform: scale(1, 1);
+  }
+}
+
+
+
+@keyframes dinosaur_bgAnim {
+  0%, 100%{
+    -webkit-transform: scale(0.95, 0.95) rotate(0);
+            transform: scale(0.95, 0.95) rotate(0);
+  }
+  50%{
+    -webkit-transform: scale(1, 1) rotate(10deg);
+            transform: scale(1, 1) rotate(10deg);
+  }
+}
+
+@-webkit-keyframes dinosaurInAnim{
+  0%{
+    -webkit-transform: translateY(-100px);
+            transform: translateY(-100px);
+  }
+  100%{
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+  }
+}
+
+@keyframes dinosaurInAnim{
+  0%{
+    -webkit-transform: translateY(-100px);
+            transform: translateY(-100px);
+  }
+  100%{
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+  }
+}
+
+@-webkit-keyframes dinosaurAnim{
+  0%, 100%{
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+  10%{
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+  12.5%{
+    -webkit-transform: translateX(-10px);
+            transform: translateX(-10px);
+  }
+  15%{
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+  17.5%{
+    -webkit-transform: translateX(10px);
+            transform: translateX(10px);
+  }
+  20%{
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+}
+
+@keyframes dinosaurAnim{
+  0%, 100%{
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+  10%{
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+  12.5%{
+    -webkit-transform: translateX(-10px);
+            transform: translateX(-10px);
+  }
+  15%{
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+  17.5%{
+    -webkit-transform: translateX(10px);
+            transform: translateX(10px);
+  }
+  20%{
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+}
+
+@-webkit-keyframes dinosaurEyeBallAnim {
+  0%{
+    -webkit-clip-path: ellipse(50% 50% at 50% 50%);
+            clip-path: ellipse(50% 50% at 50% 50%);
+  }
+  40%{
+    -webkit-clip-path: ellipse(50% 50% at 50% 50%);
+            clip-path: ellipse(50% 50% at 50% 50%);
+  }
+  50%{
+    -webkit-clip-path: ellipse(50% 0% at 50% 50%);
+            clip-path: ellipse(50% 0% at 50% 50%);
+  }
+  60%{
+    -webkit-clip-path: ellipse(50% 50% at 50% 50%);
+            clip-path: ellipse(50% 50% at 50% 50%);
+  }
+  100%{
+    -webkit-clip-path: ellipse(50% 50% at 50% 50%);
+            clip-path: ellipse(50% 50% at 50% 50%);
+  }
+}
+
+@keyframes dinosaurEyeBallAnim {
+  0%{
+    -webkit-clip-path: ellipse(50% 50% at 50% 50%);
+            clip-path: ellipse(50% 50% at 50% 50%);
+  }
+  40%{
+    -webkit-clip-path: ellipse(50% 50% at 50% 50%);
+            clip-path: ellipse(50% 50% at 50% 50%);
+  }
+  50%{
+    -webkit-clip-path: ellipse(50% 0% at 50% 50%);
+            clip-path: ellipse(50% 0% at 50% 50%);
+  }
+  60%{
+    -webkit-clip-path: ellipse(50% 50% at 50% 50%);
+            clip-path: ellipse(50% 50% at 50% 50%);
+  }
+  100%{
+    -webkit-clip-path: ellipse(50% 50% at 50% 50%);
+            clip-path: ellipse(50% 50% at 50% 50%);
+  }
+}
+
+@-webkit-keyframes dinosaurUpperBodyAnim {
+  0%, 100%{
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  50%{
+    -webkit-transform: rotate(10deg);
+            transform: rotate(10deg);
+  }
+}
+
+@keyframes dinosaurUpperBodyAnim {
+  0%, 100%{
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  50%{
+    -webkit-transform: rotate(10deg);
+            transform: rotate(10deg);
+  }
+}
+
+@-webkit-keyframes dinosaurTailUpDownAnim {
+  0%{
+    -webkit-transform: rotate(5deg);
+            transform: rotate(5deg);
+  }
+  50%{
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100%{
+    -webkit-transform: rotate(5deg);
+            transform: rotate(5deg);
+  }
+}
+
+@keyframes dinosaurTailUpDownAnim {
+  0%{
+    -webkit-transform: rotate(5deg);
+            transform: rotate(5deg);
+  }
+  50%{
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100%{
+    -webkit-transform: rotate(5deg);
+            transform: rotate(5deg);
+  }
+}
+
+@-webkit-keyframes dinosaurTailAnim {
+  0%{
+    -webkit-transform: rotate3d(0, 1, 0, -35deg) translate3d(-1px, -1.5px, 0);
+            transform: rotate3d(0, 1, 0, -35deg) translate3d(-1px, -1.5px, 0);
+    opacity: 1;
+  }
+  50%{
+    -webkit-transform: rotate3d(0, 1, 0, 35deg) translate3d(-1px, -1.5px, 0);
+            transform: rotate3d(0, 1, 0, 35deg) translate3d(-1px, -1.5px, 0);
+  }
+  100%{
+      -webkit-transform: rotate3d(0, 1, 0, -35deg) translate3d(-1px, -1.5px, 0);
+              transform: rotate3d(0, 1, 0, -35deg) translate3d(-1px, -1.5px, 0);
+  }
+}
+
+@keyframes dinosaurTailAnim {
+  0%{
+    -webkit-transform: rotate3d(0, 1, 0, -35deg) translate3d(-1px, -1.5px, 0);
+            transform: rotate3d(0, 1, 0, -35deg) translate3d(-1px, -1.5px, 0);
+    opacity: 1;
+  }
+  50%{
+    -webkit-transform: rotate3d(0, 1, 0, 35deg) translate3d(-1px, -1.5px, 0);
+            transform: rotate3d(0, 1, 0, 35deg) translate3d(-1px, -1.5px, 0);
+  }
+  100%{
+      -webkit-transform: rotate3d(0, 1, 0, -35deg) translate3d(-1px, -1.5px, 0);
+              transform: rotate3d(0, 1, 0, -35deg) translate3d(-1px, -1.5px, 0);
+  }
+}
+@-webkit-keyframes dinosaurBirdAnimRightRotate {
+  0%{
+    -webkit-transform:rotate3d(0, 1, 0, 0deg);
+            transform:rotate3d(0, 1, 0, 0deg);
+  }
+  100%{
+    -webkit-transform:rotate3d(0, 1, 0, 360deg);
+            transform:rotate3d(0, 1, 0, 360deg);
+  }
+}
+@keyframes dinosaurBirdAnimRightRotate {
+  0%{
+    -webkit-transform:rotate3d(0, 1, 0, 0deg);
+            transform:rotate3d(0, 1, 0, 0deg);
+  }
+  100%{
+    -webkit-transform:rotate3d(0, 1, 0, 360deg);
+            transform:rotate3d(0, 1, 0, 360deg);
+  }
+}
+
+@-webkit-keyframes dinosaurBirdAnimRightWings {
+  0%{
+    -webkit-transform:skew(0deg, 0deg);
+            transform:skew(0deg, 0deg);
+  }
+  50%{
+    -webkit-transform:skew(45deg, 5deg);
+            transform:skew(45deg, 5deg);
+  }
+}
+
+@keyframes dinosaurBirdAnimRightWings {
+  0%{
+    -webkit-transform:skew(0deg, 0deg);
+            transform:skew(0deg, 0deg);
+  }
+  50%{
+    -webkit-transform:skew(45deg, 5deg);
+            transform:skew(45deg, 5deg);
+  }
+}
+
+
+
+/* eof Keyframes */
+
+
+/*
+* Prefixed by:
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/* Reset Browser Styles */
+body{ margin:0; padding:0; -webkit-box-sizing:border-box; box-sizing:border-box; } *{-webkit-box-sizing:border-box;box-sizing:border-box;}
+
+
+/* Styles */
+
+.dinosaur .branches > g{
+  -webkit-animation: dinosaurPlantAnim 2.5s linear infinite;
+          animation: dinosaurPlantAnim 2.5s linear infinite;
+}
+.dinosaur .branches > g:nth-child(1){
+  -webkit-transform-origin: 736px 400px;
+      -ms-transform-origin: 736px 400px;
+          transform-origin: 736px 400px;
+  -webkit-animation-delay: -500ms;
+          animation-delay: -500ms;
+}
+.dinosaur .branches > g:nth-child(2){
+  -webkit-transform-origin: 736px 400px;
+      -ms-transform-origin: 736px 400px;
+          transform-origin: 736px 400px;
+  -webkit-animation-delay: -1000ms;
+          animation-delay: -1000ms;
+}
+.dinosaur .branches > g:nth-child(3){
+  -webkit-transform-origin: 815px 272px;
+      -ms-transform-origin: 815px 272px;
+          transform-origin: 815px 272px;
+}
+.dinosaur .branches > g:nth-child(4){
+  -webkit-transform-origin: 815px 272px;
+      -ms-transform-origin: 815px 272px;
+          transform-origin: 815px 272px;
+  -webkit-animation-delay: -500ms;
+          animation-delay: -500ms;
+}
+.dinosaur .branches > g:nth-child(5){
+  -webkit-transform-origin: 736px 400px;
+      -ms-transform-origin: 736px 400px;
+          transform-origin: 736px 400px;
+  -webkit-animation-delay: -1000ms;
+          animation-delay: -1000ms;
+}
+.dinosaur .branches > g:nth-child(6){
+  -webkit-transform-origin: 815px 272px;
+      -ms-transform-origin: 815px 272px;
+          transform-origin: 815px 272px;
+}
+.dinosaur .branches > g:nth-child(7){
+  -webkit-transform-origin: 815px 272px;
+      -ms-transform-origin: 815px 272px;
+          transform-origin: 815px 272px;
+}
+.dinosaur .branches > g:nth-child(8){
+  -webkit-transform-origin: 736px 400px;
+      -ms-transform-origin: 736px 400px;
+          transform-origin: 736px 400px;
+  -webkit-animation-delay: -500ms;
+          animation-delay: -500ms;
+}
+.dinosaur .branches > g:nth-child(9){
+  -webkit-transform-origin: 736px 400px;
+      -ms-transform-origin: 736px 400px;
+          transform-origin: 736px 400px;
+  -webkit-animation-delay: -1000ms;
+          animation-delay: -1000ms;
+}
+.dinosaur .branches > g:nth-child(10){
+  -webkit-transform-origin: 815px 272px;
+      -ms-transform-origin: 815px 272px;
+          transform-origin: 815px 272px;
+}
+
+
+
+
+
+
+.dinosaur{
+  -webkit-transform-origin: 380px 275px;
+      -ms-transform-origin: 380px 275px;
+          transform-origin: 380px 275px;
+}
+
+.dinosaur .body{
+  -webkit-transform-origin: 380px 275px;
+      -ms-transform-origin: 380px 275px;
+          transform-origin: 380px 275px;
+}
+
+/* Background */
+.dinosaur .background{
+
+}
+.dinosaur .clouds > g{
+  -webkit-animation: dinosaurCloudsAnim 15s linear infinite;
+          animation: dinosaurCloudsAnim 15s linear infinite;
+}
+
+
+/* Legs */
+
+
+
+/* Trunk Area */
+.dinosaur .upper-body{
+  -webkit-transform-origin: 782px 625px;
+      -ms-transform-origin: 782px 625px;
+          transform-origin: 782px 625px;
+  -webkit-animation: dinosaurUpperBodyAnim 3s ease-in-out infinite;
+          animation: dinosaurUpperBodyAnim 3s ease-in-out infinite;
+}
+.dinosaur  .left-leg-skin{
+  -webkit-transform-origin: 782px 625px;
+      -ms-transform-origin: 782px 625px;
+          transform-origin: 782px 625px;
+  -webkit-animation: dinosaurUpperBodyAnim 3s ease-in-out infinite;
+          animation: dinosaurUpperBodyAnim 3s ease-in-out infinite;
+}
+.dinosaur .stomach{
+  -webkit-transform-origin: 690px 651px;
+      -ms-transform-origin: 690px 651px;
+          transform-origin: 690px 651px;
+  -webkit-animation: dinosaurStomachAnim 3s ease-in-out infinite;
+          animation: dinosaurStomachAnim 3s ease-in-out infinite;
+}
+
+.dinosaur .nostril{
+  -webkit-transform-origin: 508px 487px;
+      -ms-transform-origin: 508px 487px;
+          transform-origin: 508px 487px;
+  -webkit-animation: dinosaurNostrilAnim 3s ease-in-out infinite;
+          animation: dinosaurNostrilAnim 3s ease-in-out infinite;
+}
+
+
+/* Eyes */
+.dinosaur .eye{
+  -webkit-transform-origin: 588px 446px;
+      -ms-transform-origin: 588px 446px;
+          transform-origin: 588px 446px;
+  -webkit-animation: dinosaurEyeBallAnim 3s ease-in-out infinite;
+          animation: dinosaurEyeBallAnim 3s ease-in-out infinite;
+}
+
+/* Tears */
+.dinosaur .tears{
+
+}
+.dinosaur .tear1{
+  -webkit-transform-origin: 578px 473px;
+      -ms-transform-origin: 578px 473px;
+          transform-origin: 578px 473px;
+  -webkit-animation: dinosaurTearAnim 3s ease-in infinite;
+          animation: dinosaurTearAnim 3s ease-in infinite;
+  opacity: 0;
+  -webkit-animation-delay: 500ms;
+          animation-delay: 500ms;
+}
+.dinosaur .tear2{
+  -webkit-transform-origin: 578px 473px;
+      -ms-transform-origin: 578px 473px;
+          transform-origin: 578px 473px;
+  -webkit-animation: dinosaurTearAnim 3s ease-in infinite;
+          animation: dinosaurTearAnim 3s ease-in infinite;
+  opacity: 0;
+  -webkit-animation-delay: 1000ms;
+          animation-delay: 1000ms;
+}
+.dinosaur .tear3{
+  display: none;
+}
+
+/* Hands */
+.dinosaur .left-hand{
+  -webkit-transform-origin: 707px 587px;
+      -ms-transform-origin: 707px 587px;
+          transform-origin: 707px 587px;
+  -webkit-animation: dinosaurHandAnim 3s ease-in-out infinite;
+          animation: dinosaurHandAnim 3s ease-in-out infinite;
+  -webkit-transform: rotate(-5deg);
+      -ms-transform: rotate(-5deg);
+          transform: rotate(-5deg);
+  -webkit-animation-delay: -1000ms;
+          animation-delay: -1000ms;
+}
+.dinosaur .right-hand{
+  -webkit-transform-origin: 686px 575px;
+      -ms-transform-origin: 686px 575px;
+          transform-origin: 686px 575px;
+  -webkit-animation: dinosaurHandAnim 3s ease-in-out infinite;
+          animation: dinosaurHandAnim 3s ease-in-out infinite;
+
+  -webkit-transform: rotate(-5deg);
+
+      -ms-transform: rotate(-5deg);
+
+          transform: rotate(-5deg);
+}
+
+
+
+/* Tail */
+.dinosaur .tail{
+  -webkit-transform-origin: 908px 637px;
+      -ms-transform-origin: 908px 637px;
+          transform-origin: 908px 637px;
+  -webkit-animation: dinosaurTailAnim 3s ease-in-out infinite;
+          animation: dinosaurTailAnim 3s ease-in-out infinite;
+}
+.dinosaur .tail > g{
+  -webkit-transform-origin: 908px 581px;
+      -ms-transform-origin: 908px 581px;
+          transform-origin: 908px 581px;
+  -webkit-animation: dinosaurTailUpDownAnim 3s ease-in-out infinite;
+          animation: dinosaurTailUpDownAnim 3s ease-in-out infinite;
+}
+
+
+
+.dinosaur .skin{
+  -webkit-transform-origin: 436px 304px;
+      -ms-transform-origin: 436px 304px;
+          transform-origin: 436px 304px;
+  -webkit-animation: dinosaurSkinAnim 3s ease-in-out infinite;
+          animation: dinosaurSkinAnim 3s ease-in-out infinite;
+}
+
+
+
+
+.dinosaur .plants > g,
+.dinosaur .flower{
+  -webkit-animation: dinosaurPlantAnim 2.5s linear infinite;
+          animation: dinosaurPlantAnim 2.5s linear infinite;
+}
+.dinosaur .flower{
+  -webkit-transform-origin: 950px 806px;
+      -ms-transform-origin: 950px 806px;
+          transform-origin: 950px 806px;
+}
+.dinosaur .plants > g:nth-child(1){
+  -webkit-transform-origin: 580px 800px;
+      -ms-transform-origin: 580px 800px;
+          transform-origin: 580px 800px;
+}
+.dinosaur .plants > g:nth-child(2){
+  -webkit-transform-origin: 587px 800px;
+      -ms-transform-origin: 587px 800px;
+          transform-origin: 587px 800px;
+}
+.dinosaur .plants > g:nth-child(3){
+  -webkit-transform-origin: 944px 805px;
+      -ms-transform-origin: 944px 805px;
+          transform-origin: 944px 805px;
+}
+.dinosaur .plants > g:nth-child(4){
+  -webkit-transform-origin: 964px 806px;
+      -ms-transform-origin: 964px 806px;
+          transform-origin: 964px 806px;
+}
+.dinosaur .plants > g:nth-child(5){
+  -webkit-transform-origin: 971px 803px;
+      -ms-transform-origin: 971px 803px;
+          transform-origin: 971px 803px;
+}
+
+
+
+
+/* Right Corner Birds */
+.dinosaur .bird-right{
+  -webkit-transform-origin: 1128px 237px;
+      -ms-transform-origin: 1128px 237px;
+          transform-origin: 1128px 237px;
+  -webkit-animation: dinosaurBirdAnimRightDistance 10s linear infinite;
+          animation: dinosaurBirdAnimRightDistance 10s linear infinite;
+}
+.dinosaur .bird-up-down{
+  -webkit-transform-origin: 1128px 237px;
+      -ms-transform-origin: 1128px 237px;
+          transform-origin: 1128px 237px;
+  -webkit-animation: dinosaurBirdAnimUpDown 10s ease-in-out infinite;
+          animation: dinosaurBirdAnimUpDown 10s ease-in-out infinite;
+}
+.dinosaur .bird8,
+.dinosaur .bird9,
+.dinosaur .bird7{
+}
+
+.dinosaur .bird8 g,
+.dinosaur .bird9 g,
+.dinosaur .bird7 g{
+  -webkit-animation: dinosaurBirdAnimRightWings 2s linear infinite;
+          animation: dinosaurBirdAnimRightWings 2s linear infinite;
+}
+.dinosaur .bird7 g{
+  -webkit-transform-origin: 1066px 245px;
+      -ms-transform-origin: 1066px 245px;
+          transform-origin: 1066px 245px;
+}
+.dinosaur .bird8 g{
+  -webkit-transform-origin: 1137px 256px;
+      -ms-transform-origin: 1137px 256px;
+          transform-origin: 1137px 256px;
+}
+.dinosaur .bird9 g{
+  -webkit-transform-origin: 1199px 220px;
+      -ms-transform-origin: 1199px 220px;
+          transform-origin: 1199px 220px;
+}
+
+
+/* left corner birds */
+.dinosaur .bird3,
+.dinosaur .bird4,
+.dinosaur .bird5,
+.dinosaur .bird6{
+  -webkit-transform-origin:448px 235px;
+      -ms-transform-origin:448px 235px;
+          transform-origin:448px 235px;
+  -webkit-animation: dinosaurBirdAnimRightRotate 20s linear infinite;
+          animation: dinosaurBirdAnimRightRotate 20s linear infinite;
+}
+.dinosaur .bird1,
+.dinosaur .bird2{
+  -webkit-transform-origin:572px 213px;
+      -ms-transform-origin:572px 213px;
+          transform-origin:572px 213px;
+  -webkit-animation: dinosaurBirdAnimRightRotate 20s linear infinite;
+          animation: dinosaurBirdAnimRightRotate 20s linear infinite;
+}
+
+
+
+.dinosaur .bird2{
+}
+.dinosaur .bird1 g{
+  -webkit-transform-origin: 468px 245px;
+      -ms-transform-origin: 468px 245px;
+          transform-origin: 468px 245px;
+}
+.dinosaur .bird2 g{
+  -webkit-transform-origin: 495px 289px;
+      -ms-transform-origin: 495px 289px;
+          transform-origin: 495px 289px;
+}
+.dinosaur .bird3 g{
+  -webkit-transform-origin: 520px 240px;
+      -ms-transform-origin: 520px 240px;
+          transform-origin: 520px 240px;
+}
+.dinosaur .bird4 g{
+  -webkit-transform-origin: 552px 230px;
+      -ms-transform-origin: 552px 230px;
+          transform-origin: 552px 230px;
+}
+.dinosaur .bird5 g{
+  -webkit-transform-origin: 596px 213px;
+      -ms-transform-origin: 596px 213px;
+          transform-origin: 596px 213px;
+}
+.dinosaur .bird6 g{
+  -webkit-transform-origin: 619px 239px;
+      -ms-transform-origin: 619px 239px;
+          transform-origin: 619px 239px;
+}
+.dinosaur .bird1 g,
+.dinosaur .bird2 g,
+.dinosaur .bird3 g,
+.dinosaur .bird4 g,
+.dinosaur .bird5 g,
+.dinosaur .bird6 g{
+  -webkit-animation: dinosaurBirdAnimRightWings 2s linear infinite;
+          animation: dinosaurBirdAnimRightWings 2s linear infinite;
+}
+
+
+
+/* eof Styles */
