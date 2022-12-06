@@ -36,3 +36,8 @@ function setCookie(cname, cvalue, exdays) {
 window.onresize = function(){
    
 }
+
+// addEventListener
+document.addEventListener("click", function(){
+  document.getElementById("demo").innerHTML = "Hello World";
+});
