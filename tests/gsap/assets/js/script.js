@@ -6,9 +6,10 @@ gsap.to(".square", {
     scrollTrigger: {
         trigger: ".square", 
         start: "top 60%",
-        end: "bottom 30%",
+        end: "top 30%",
         markers: true,
-        scrub: true,
-        toggleClass: 'red'
+        toggleClass: 'red',
+        toggleActions: 'restart pause resume reset',
+        // onEnter onLeave onEnterBack onLeaveBack
     }
 })

@@ -36,4 +36,8 @@ gsap.to(".square", {
     }
 })
 
-
+// Toggle Actions:
+// toggleActions: 'restart reverse restart reverse',
+// toggleActions: 'restart pause resume none',
+// toggleActions: 'restart pause resume complete',
+// toggleActions: 'restart pause resume reset',
