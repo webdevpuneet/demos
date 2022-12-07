@@ -7,7 +7,11 @@ gsap.to(".square", {
         trigger: ".square", 
         start: "top 60%",
         end: "top 30%",
-        markers: true,
+        markers: {
+            startColor: "purple",
+            endColor: "purple",
+            fontSize: "3rem",
+        },
         toggleClass: 'red',
         toggleActions: 'restart pause resume reset',
         // onEnter onLeave onEnterBack onLeaveBack

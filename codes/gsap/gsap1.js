@@ -41,3 +41,12 @@ gsap.to(".square", {
 // toggleActions: 'restart pause resume none',
 // toggleActions: 'restart pause resume complete',
 // toggleActions: 'restart pause resume reset',
+
+// Customise Markers / Indicators
+/*
+    markers: {
+        startColor: "purple",
+        endColor: "purple",
+        fontSize: "3rem",
+    },
+*/
