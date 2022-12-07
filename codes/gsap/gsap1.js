@@ -50,3 +50,9 @@ gsap.to(".square", {
         fontSize: "3rem",
     },
 */
+
+
+// Scrub Property - https://www.youtube.com/watch?v=SCfZBtedicw&list=PLMPgoZdlPumexxtvuPUB3TY7LExI1N_Xp&index=4
+/**
+    scrub: true,
+ */

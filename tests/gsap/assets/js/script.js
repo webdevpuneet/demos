@@ -8,9 +8,9 @@ gsap.to(".square", {
         start: "top 60%",
         end: "top 30%",
         markers: {
-            startColor: "purple",
-            endColor: "purple",
-            fontSize: "3rem",
+            startColor: "green",
+            endColor: "red",
+            fontSize: "1rem",
         },
         toggleClass: 'red',
         toggleActions: 'restart pause resume reset',
