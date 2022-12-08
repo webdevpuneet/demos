@@ -1,24 +1,20 @@
 body{
   margin:0;
 }
-.div1{
-  height: 100vh;
-}
-
-.div2, .div3{
-  height: 50vh;
-}
 
 .div1 {
   background-color: pink;
+  height: 100vh;
 }
 
 .div2{
   background-color: salmon;
+  height: 100vh;
 }
 
 .div3{
   background-color: rgb(61, 203, 90);
+  height: 100vh;
 }
 
 
@@ -36,6 +32,5 @@ body{
   width: 150px;
   height: 150px;
   background-color: rgb(190, 226, 83);
-  margin-top: 300px;
 }
 

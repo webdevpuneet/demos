@@ -4,7 +4,7 @@ gsap.to(".square", {
     x: 700,
     duration: 3,
     scrollTrigger: {
-        trigger: ".square", 
+        trigger: ".square2", 
         start: "top 60%",
         end: "top 30%",
         markers: {
@@ -13,7 +13,9 @@ gsap.to(".square", {
             fontSize: "1rem",
         },
         toggleClass: 'red',
-        toggleActions: 'restart pause resume reset',
+        toggleActions: 'restart reverse restart reverse',
+        pin: '.square',
+        pinSpacing: true,
         // onEnter onLeave onEnterBack onLeaveBack
-    }
+    }   
 })

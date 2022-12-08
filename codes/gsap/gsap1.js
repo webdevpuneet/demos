@@ -56,3 +56,26 @@ gsap.to(".square", {
 /**
     scrub: true,
  */
+
+/*  Pinning, with same and other one a trigger
+
+    pin: true,
+
+    scrollTrigger: {
+        trigger: ".square2", 
+        start: "top 60%",
+        end: "top 30%",
+        markers: {
+            startColor: "green",
+            endColor: "red",
+            fontSize: "1rem",
+        },
+        toggleClass: 'red',
+        toggleActions: 'restart reverse restart reverse',
+        pin: '.square',
+        pinSpacing: true, // adds margin/padding so pinned element does not overlaps
+        // onEnter onLeave onEnterBack onLeaveBack
+    }  
+*/
+
+
