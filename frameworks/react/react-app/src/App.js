@@ -4,6 +4,10 @@ import gsap from 'gsap';
 import {useRef, useEffect} from "react";
 import {ScrollTrigger} from 'gsap/ScrollTrigger';
 import { FaBeer } from "react-icons/fa";
+import { DatePicker } from 'antd';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import BasicExample from './bootstrap/BasicExample';
+import CarouselExample from './bootstrap/Carousel';
 
 /* Register ScrollTrigger Plugin */
 gsap.registerPlugin(ScrollTrigger);
@@ -21,6 +25,10 @@ function App() {
         <div className='helper'>
         </div>
         <FaBeer />
+        <DatePicker />
+        <div className='container'>
+          <CarouselExample/>
+        </div>
         <img src={logo} className="App-logo" alt="logo" ref={imgRef}/>
     </div>
   );
