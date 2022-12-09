@@ -1,3 +1,5 @@
+// Add Bootstrap to react project
+npm install react-bootstrap bootstrap
 
 // Create a new REACT app
 npx create-react-app my-app

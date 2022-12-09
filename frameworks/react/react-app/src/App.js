@@ -20,6 +20,7 @@ function App() {
     <div className="App">
         <div className='helper'>
         </div>
+        <FaBeer />
         <img src={logo} className="App-logo" alt="logo" ref={imgRef}/>
     </div>
   );
