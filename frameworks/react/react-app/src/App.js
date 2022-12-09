@@ -3,6 +3,9 @@ import './App.css';
 import gsap from 'gsap';
 import {useRef, useEffect} from "react";
 import {ScrollTrigger} from 'gsap/ScrollTrigger';
+import { FaBeer } from "react-icons/fa";
+
+/* Register ScrollTrigger Plugin */
 gsap.registerPlugin(ScrollTrigger);
 
 function App() {
