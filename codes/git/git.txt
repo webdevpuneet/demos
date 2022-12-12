@@ -1,0 +1,4 @@
+git fetch --all // Update all origin/<branch> refs to latest:
+git branch backup-master   // Take backups in local
+git reset --hard origin/master   // Reset hard
+git push origin <your_branch_name> --force    // Force push or you can also use -f for --force 
