@@ -41,3 +41,27 @@ window.onresize = function(){
 document.addEventListener("click", function(){
   document.getElementById("demo").innerHTML = "Hello World";
 });
+
+
+
+
+
+/**
+ * Checking viewport width and height and executing a function on windows load and resize
+ */
+let vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+
+window.addEventListener("load", (event) => {
+    checkViewPortWidth(vw, vh);
+});
+
+window.addEventListener("resize", (event) => {
+    vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+    vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+    checkViewPortWidth(vw, vh);
+});
+
+const checkViewPortWidth = ( vw, vh ) => {
+  // Execute anything here
+}
