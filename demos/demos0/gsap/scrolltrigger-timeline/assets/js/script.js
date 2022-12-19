@@ -18,7 +18,7 @@ const tl = gsap.timeline({
     }  
 })
 
-tl.to(".square", {x: 500, duration: 2})
-  .to(".square", {y: 200, duration: 2})
+tl.to(".square", {x: 500, width:'400', duration: 2})
+  .to(".square", {y: 200, width:'400', duration: 2})
   .to(".square", {x: 0, duration: 2})
 
