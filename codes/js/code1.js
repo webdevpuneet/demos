@@ -5,6 +5,12 @@ document.querySelector()    // Return one (1) element. Only the first element ma
 document.querySelectorAll()   //  returns multiples into another array like structure known as a node list
 
 
+// Scroll to top on page load
+window.onbeforeunload = function () {
+  window.scrollTo(0, 0);
+}
+
+
 // Get cookie
 function getCookie(cname) {
   let name = cname + "=";
