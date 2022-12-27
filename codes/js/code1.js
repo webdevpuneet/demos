@@ -1,3 +1,6 @@
+// npm i http-server    usage command: http-server
+
+
 // JavaScript Selectors
 document.getElementById()   // return one (1) element
 document.getElementsByTagName()     // returns multiples in an array. Accepts p, div, body, or any other valid HTML tag.
