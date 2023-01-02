@@ -8,3 +8,7 @@ git remote -v // check what remote
 // Create new branch and push to another git version
 git remote set-url origin https://gitlab.com/krishna0052/mave.git
 git push origin puneet
+
+
+// Force push one branch to another branch
+git push -f origin your_branch_name
