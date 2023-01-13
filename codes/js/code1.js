@@ -46,6 +46,19 @@ window.onresize = function(){
    
 }
 
+window.addEventListener("load", (event) => {
+
+});
+
+window.addEventListener("resize", (event) => {
+
+});
+
+
+let vw = Math.max(document.documentElement.clientWidth);
+let vh = Math.max(document.documentElement.clientHeight);
+
+
 // addEventListener
 document.addEventListener("click", function(){
   document.getElementById("demo").innerHTML = "Hello World";

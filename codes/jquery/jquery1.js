@@ -50,6 +50,10 @@ const scrollToBottom = function(){
 }
 
 
+// Document ready
+$(document).ready(function(){
+    
+});
 
 
 
