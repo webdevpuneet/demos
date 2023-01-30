@@ -68,3 +68,10 @@ width: clamp(100px, calc(30% / 2rem + 10px), 900px);
     zoom: 2;
   }
 }
+
+
+
+// Eleastic background method
+.onextel-page-tabs-link:nth-child(4).tabs-link-active ~ .bg-elastic {
+  left: 50%;
+}
